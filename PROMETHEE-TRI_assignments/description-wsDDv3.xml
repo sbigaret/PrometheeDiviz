@@ -88,6 +88,12 @@
                     </documentation>
                     <defaultValue>true</defaultValue>
                 </entry>
+                <entry id="%2" type="boolean" displayName="use marginal value">
+                    <documentation>
+                        <description>Information if decision maker wants to use a marginal value function (deviation with absolute value instead of simply flows) while calculating assignments.</description>
+                    </documentation>
+                    <defaultValue>true</defaultValue>
+                </entry>
             </gui>
         </input>
 
